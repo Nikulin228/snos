@@ -11,7 +11,7 @@ import pyfiglet
 number = +79999999999
 
 # ASCII-àðò ïðèâåòñòâèÿ äëÿ ïðîãè
-ascii_banner = pyfiglet.figlet_format("SURGE SNOSER")
+ascii_banner =("SURGE SNOSER")
 colored_banner = colored(ascii_banner, color='red')  # Êðàñèì â öâåò
 print('by @SURGEEBET')
 print('questions - @SURGEEBET')
